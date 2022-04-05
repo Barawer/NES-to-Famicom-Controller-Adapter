@@ -9,5 +9,7 @@ Creatd using KiCad.
 
 # To-Do
 *Design a case
+
 *Create a BOM
+
 *Create installation instuctions
