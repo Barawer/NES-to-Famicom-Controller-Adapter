@@ -8,8 +8,8 @@ A simple NES to Famicom controller adapter PCB, to make the build process cleane
 Created using KiCad.
 
 # To-Do
-*Design a case
+* Design a case
 
-*Create a BOM
+* Create a BOM
 
-*Create installation instuctions
+* Create installation instuctions
